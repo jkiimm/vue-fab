@@ -353,8 +353,8 @@
 
 <style scoped>
     .animated.quick {
-        -webkit-animation-duration: .7s !important;
-        animation-duration: .7s !important;
+        -webkit-animation-duration: .35s !important;
+        animation-duration: .35s !important;
     }
 
     .fab-wrapper {
